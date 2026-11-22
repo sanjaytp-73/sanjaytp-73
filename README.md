@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sanjay
 
-<!--
-**sanjaytp-73/sanjaytp-73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Com graduate and an aspiring Data Analyst. I like turning messy data into clear answers.
 
-Here are some ideas to get you started:
+## Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[CPSE Financial Performance Analysis](https://github.com/sanjaytp-73/CPSE-Financial-Performance-Analysis)**
+
+I cleaned five Government of India Public Enterprises Survey statements covering 372 CPSEs, loaded them into MySQL, and built a four-page Power BI dashboard on profit, turnover and borrowings.
+
+## Skills
+
+| Area | Tools |
+|---|---|
+| Data cleaning and validation | Excel |
+| Databases and queries | MySQL |
+| Dashboards | Power BI, DAX, Figma |
+
+## Currently learning
+
+Python for data analysis.
+
+## Find me
+
+- LinkedIn: [Sanjay T P](https://www.linkedin.com/in/sanjay-t-p-5ba257425)
+- Email: sanjaytp73@gmail.com
